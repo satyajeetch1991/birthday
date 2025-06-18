@@ -27,9 +27,9 @@
   "author": "Anshuman Mahato",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomjerryokk/birthday.git"
+    "url": "https://github.com/satyajeetch1991/birthday.git"
   },
-  "homepage": "https://github.com/tomjerryokk/birthday.git",
+  "homepage": "https://github.com/satyajeetch1991/birthday.git",
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.6.2",
     "@parcel/transformer-sass": "^2.6.2",
